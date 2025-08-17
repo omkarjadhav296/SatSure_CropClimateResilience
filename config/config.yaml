@@ -1,0 +1,11 @@
+artificats_roots: artifacts
+
+# Data-Ingestion-Configuration:
+data_ingestion:
+    root_dir: artifacts/data_ingestion
+    source_URL: 
+    local_data_file: artifacts/data_ingestion/data.zip
+    unzip_dir: artifacts/data_ingestion
+
+# Data-Preprocessing-Configuration:
+data_preprocessing:

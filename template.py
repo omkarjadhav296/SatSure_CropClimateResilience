@@ -6,7 +6,7 @@ import logging
 logging.basicConfig(level= logging.INFO, format='%(asctime)s : %(levelname)s : %(message)s')
 
 
-project_name = "SatuSure_CS"
+project_name = "CropClimateResilience"
 
 
 # list of files and folder for setting up project
